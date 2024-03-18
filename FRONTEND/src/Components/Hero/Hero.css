@@ -1,0 +1,23 @@
+.the-h-text {
+    font-size: 90px;
+    color: azure;
+    font-weight: 800;
+    text-align: center;
+}
+/* Hero.css */
+.opacity-transition {
+    transition: opacity 0.3s ease-in-out;
+  }
+  
+  .opacity-0 {
+    opacity: 0;
+  }
+  
+  .opacity-100 {
+    opacity: 1;
+  }
+  
+  .hover-opacity:hover {
+    opacity: 1;
+  }
+  

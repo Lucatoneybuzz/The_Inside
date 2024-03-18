@@ -1,0 +1,33 @@
+.text-h {
+    font-size: 70px;
+    text-align: left;
+    font-weight: 700;
+    line-height: 65px;
+    margin-top: -12%;
+    margin-left: 20px;
+}
+.text-p {
+    text-align: left;
+    line-height: 25px;
+    color: grey;
+    margin-left: 20px;
+}
+.more-img {
+    width: 650px;
+    height: 100vh;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.link{
+    background-color: rgb(122, 33, 33);
+    color: azure;
+    padding: 10px 10px 15px 15px;
+    border-radius: 5px;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 20px;
+    transition: ease-in-out 0.3s;
+}
+.link:hover{
+    background-color: rgb(60, 8, 8);
+}
